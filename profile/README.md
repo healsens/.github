@@ -142,3 +142,14 @@ From fragmented records to actionable intelligence.
 From disconnected systems to real preventive workflows.
 
 **Healsens is building the infrastructure for that transition.**
+
+## Get in Touch
+
+Interested in working together on interoperable health data, prevention workflows, or digital health infrastructure?
+
+We would love to hear from you.
+
+- **Email:** [contact@healsens.com](mailto:contact@healsens.com)
+- **Website:** [healsens.com](https://healsens.com)
+- **App Store:** [Download Healsens for iPhone](https://apps.apple.com/nl/app/healsens-gezondheidstracker/id1613381292)
+- **Google Play:** [Download Healsens for Android](https://play.google.com/store/apps/details?id=com.healsens.android)
